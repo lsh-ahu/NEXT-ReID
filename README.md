@@ -34,6 +34,9 @@ If you find our work helpful, please consider citing:
 }
 ```
 
+### 🌺 Thanks
+The code is built upon [DeMo](https://github.com/924973292/DeMo) and [IDEA](https://github.com/924973292/IDEA). Thanks for their excellent contributions!
+
 ### 📬 Contact
 For questions or clarifications, feel free to contact:
 
