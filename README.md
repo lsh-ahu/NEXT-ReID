@@ -1,8 +1,11 @@
 # NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification
 Official PyTorch implementation of the paper:
 
+
 **"NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification"**  
 Authors: [Shihao Li, Aihua Zheng, Andong Lu, Jin Tang, Jixin Ma].
+
+*The source Code will be completely released after being reorganized.*
 
 [[Paper]](https://arxiv.org/abs/2505.20001) 
 
