@@ -7,7 +7,7 @@ Authors: [Shihao Li, Aihua Zheng, Andong Lu, Jin Tang, Jixin Ma].
 
 *The source Code will be completely released after being reorganized.*
 
-[[Paper]](https://arxiv.org/abs/2505.20001) 
+[[Paper]](https://arxiv.org/pdf/2505.20001v4) 
 
 ---
 
