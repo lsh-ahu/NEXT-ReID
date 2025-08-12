@@ -11,7 +11,7 @@ Authors: [Shihao Li, Aihua Zheng, Andong Lu, Jin Tang, Jixin Ma].
 
 ---
 
-## 📌 Methodology
+## 📌 Proposed Method
 
 ![framework](./assets/motivation.png) <!-- optional -->
 
