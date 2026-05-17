@@ -28,7 +28,7 @@ If you find our work helpful, please consider citing:
 ```
 @article{li2025next,
   title={NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification},
-  author={Shihao Li, Aihua Zheng, Andong Lu, Jin Tang, Jixin Ma},
+  author={Shihao Li and Huaibo Huang and Junxian Duan and Aihua Zheng and Jin Tang and Jixin Ma},
   journal={arXiv preprint arXiv:2505.20001},
   year={2025}
 }
